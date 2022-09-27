@@ -1,0 +1,9 @@
+#box > div {
+  height: 800px;
+  width: 100%;
+  border: 1px solid red;
+}
+iframe {
+  width: 100%;
+  height: 80%;
+}
